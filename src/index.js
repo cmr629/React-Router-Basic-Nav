@@ -6,6 +6,9 @@ import App from './App';
 import 'bootstrap/dist/css/bootstrap.css';
 
 ReactDOM.render(
-    <Router> <App /> </Router>, 
+    <Router> 
+        <App /> 
+    </Router>, 
     document.getElementById('root')
 );
+ 
